@@ -1,5 +1,4 @@
 # CMPE272_Microservices
 
-!micro_image1.png
-
-!micro_image2.png
+![Akt text](micro_image1.png)
+![Alt text](micro_image2.png)
