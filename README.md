@@ -1,5 +1,6 @@
 # Individual Assignments - Faye Yang
-## Microservices Assignment
+>> scroll down for other assignments 
+## 1. Microservices Assignment
  web result of the users 
 
 > ![Akt text](microservices/micro_image1.png)
@@ -8,7 +9,7 @@
 
 > ![Alt text](microservices/micro_image2.png)
 
-## Building a Serverless Web Application Assignment
+## 2. Building a Serverless Web Application Assignment
  DynamoDB table with sample records 
 
 >![Akt text](AWS_Serverless_Application/AWS_SS_3.png)
